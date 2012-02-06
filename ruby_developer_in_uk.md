@@ -41,3 +41,5 @@ Desirable skills/experience:
 We're looking for someone who can work flexibly in a small, international team across different time zones. You enjoy working on exciting projects but you also don't mind fixing or refactoring other people's code. You think about things from the users point of view and you're familiar with Agile and working in short, iterative sprints. You like learning new technologies and applying them to solve the problems you face. Ideally, you live in London or would consider relocating from outside London or the UK for the right role. 
 
 If that's you, then we'd love to hear from you. To apply, send us a covering letter, with your resume and links to your work. (Email: recruit@reallyenglish.com)
+
+Agencies should not apply.
