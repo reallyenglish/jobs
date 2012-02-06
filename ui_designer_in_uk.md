@@ -1,6 +1,6 @@
 We're looking for a UX designer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
 
-About us:
+About us
 ===================================
 
 Since launching our first English language learning website in April 2002, reallyenglish has expanded year on year to become the partner of choice for corporations, educational establishments and individual students in Asia.  
