@@ -1,4 +1,4 @@
-We're looking for a UX designer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
+We're looking for a UI designer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
 
 About us
 ===================================
