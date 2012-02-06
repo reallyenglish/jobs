@@ -33,6 +33,6 @@ Desirable skills/experience:
 
 We're looking for someone who can work flexibly in a small, international team across different time zones. You're full of ideas and the sort of person who's comfortable contributing, even outside your comfort zone. You're familiar with Agile and working in short, iterative sprints.  You keep abreast of industry design developments and technology and enjoy sharing information, ideas and best practice with other design team members. You always think from the users point of view and can gauge the usability of new and existing products, and make constructive suggestions for change. You can work with other developers whose first language is not English. Ideally, you live in London or would consider relocating from outside London or the UK for the right role. 
 
-If that's you, then we'd love to hear from you. To apply, send us a covering letter, with your resume and links to your work. 
+If that's you, then we'd love to hear from you. To apply, send us a covering letter, with your resume and links to your work.  (Email: recruit@reallyenglish.com)
 
 Agencies should not apply.
