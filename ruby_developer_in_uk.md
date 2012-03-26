@@ -6,30 +6,30 @@ Why do you want to work with us?
 
 Do you have anything which attract you in this list? Why don't you contact us?
 
-*Passionate?*
+**Passionate?**
 
 You can put your idea and passion directly to a product or service. You will get
 a different satisfaction from a client work.
 
-*Love to be used?*
+**Love to be loved?**
 
 We have a large number of international users and our recent work is shortlisted on ELTons award 2012 run by British council along
 with big famous publishers.
 
 http://www.britishcouncil.org/new/press-office/press-releases/british-council-announces-shortlist-for-eltons-2012/
 
-*Love collaboration?*
+**Love collaboration?**
 
 You will develop awesome project with a team constructed by unique and small
 members: educational director, UI designers and engineers.
 Software development is a totally creative process here.
 
-*Love start up?*
+**Love start up?**
 
 We have no dress code. Flexible time table. Sunny office in Shoreditch.
 But we have established business so you will get a competitive wage.
 
-*Traveller?*
+**Traveller?**
 
 Never mind the ninjas, come work in Japan!
 
