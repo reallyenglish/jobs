@@ -1,6 +1,47 @@
 We're looking for a Senior Ruby (on Rails) developer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
 
 
+Why do you want to work with us?
+================================
+
+Do you have anything which attract you in this list? Why don't you contact us?
+
+*Passionate?*
+
+You can put your idea and passion directly to a product or service. You will get
+a different satisfaction from a client work.
+
+*Love to be used?*
+
+We have a large number of international users and our recent work is shortlisted on ELTons award 2012 run by British council along
+with big famous publishers.
+
+http://www.britishcouncil.org/new/press-office/press-releases/british-council-announces-shortlist-for-eltons-2012/
+
+*Love collaboration?*
+
+You will develop awesome project with a team constructed by unique and small
+members: educational director, UI designers and engineers.
+Software development is a totally creative process here.
+
+*Love start up?*
+
+We have no dress code. Flexible time table. Sunny office in Shoreditch.
+But we have established business so you will get a competitive wage.
+
+*Traveller?*
+
+Never mind the ninjas, come work in Japan!
+
+
+Who are we looking for?
+=======================
+
+We are looking for skilled Ruby developers. We also require this position to
+have a strong problem solving problem and communication skill since you will
+have oppotunities to work with non-tech people.
+
+
 About us
 ========
 
@@ -14,32 +55,10 @@ With offices in Tokyo, Shanghai, and Beijing, London remains our main R&D centre
 http://www.screencast.com/t/RKgZTYg4GO 
 
 
-Essential skills:
-=================
+How to apply
+============
 
-* You have extensive experience with Ruby
-* You have excellent analytical problem solving skills
-* You are familiar with working in a *NIX environment
-* You have a good working knowledge of RDBMS
-
-
-Desirable skills/experience:
-============================
-
-* Ruby on Rails, Rspec, Resque, Sinatra
-* PostgreSQL, MongoDB, Redis, Git
-* Unicorn, node.js, Nginx, Varnish, FreeBSD, OpenBSD
-* Javascript, CSS, HTML5, Haml, Sass, Compass
-* Automation and configuration management frameworks (e.g. puppet / chef etc)
-* Working with high traffic consumer facing sites
-* Improving the user experience
-* CI server
-* Agile project management
-* iOS, Android
-* Open source contributor.
-
-We're looking for someone who can work flexibly in a small, international team across different time zones. You enjoy working on exciting projects but you also don't mind fixing or refactoring other people's code. You think about things from the users point of view and you're familiar with Agile and working in short, iterative sprints. You like learning new technologies and applying them to solve the problems you face. Ideally, you live in London or would consider relocating from outside London or the UK for the right role. 
-
-If that's you, then we'd love to hear from you. To apply, send us a covering letter, with your resume and links to your work. (Email: recruit@reallyenglish.com)
+Send us your resume to recruit@reallyenglish.com
+Don't forget to mention your github account or something equivalent.
 
 Agencies should not apply.
