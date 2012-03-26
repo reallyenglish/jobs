@@ -4,7 +4,8 @@ We're looking for a Senior Ruby (on Rails) developer to help us deliver cutting-
 Why do you want to work with us?
 ================================
 
-Do you have anything which attract you in this list? Why don't you contact us?
+    ruby_programmer.send_resume(to: "recruit@reallyenglish.com") if questions.select{|q| ruby_programmer.match?(q)}.size >= 3
+
 
 **Passionate?**
 
