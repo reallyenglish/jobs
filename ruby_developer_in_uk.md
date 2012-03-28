@@ -1,46 +1,31 @@
 We're looking for a Senior Ruby (on Rails) developer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
 
 
-Why do you want to work with us?
+Why work with us?
 ================================
 
-    ruby_programmer.send_resume(to: "recruit@reallyenglish.com") if questions.select{|q| ruby_programmer.match?(q)}.size >= 3
-
-
-**Passionate?**
-
-You can put your idea and passion directly to a product or service. You will get
-a different satisfaction from a client work.
-
-**Love to be loved?**
-
-We have a large number of international users and our recent work is shortlisted on ELTons award 2012 run by British council along
-with big famous publishers.
-
-http://www.britishcouncil.org/new/press-office/press-releases/british-council-announces-shortlist-for-eltons-2012/
+**Love your passion?**
+We love sharing ideas and are passionate about our products. You'll be able to share your passion for developing and create a product that you're proud of. 
 
 **Love collaboration?**
+We develop awesome projects with small but unique Agile project teams. You'll work with  learning specialists, UI designers and engineers to develop software in an open, creative environment. 
 
-You will develop awesome project with a team constructed by unique and small
-members: educational director, UI designers and engineers.
-Software development is a totally creative process here.
+**Love start-ups?**
+We have no dress code. We have flexible working times. We have a sunny office in Shoreditch.  But we also have an established business that can offer you competitive rates.
 
-**Love start up?**
+**Love travel?**
+We have positions in both London and Tokyo to satisfy the keenest ninja.
 
-We have no dress code. Flexible time table. Sunny office in Shoreditch.
-But we have established business so you will get a competitive wage.
+**Love to be loved?**
+We have a large number of learners from all around the world and our most recent product has been shortlisted for the British Council's  ELTons award 2012. 
 
-**Traveller?**
-
-Never mind the ninjas, come work in Japan!
+http://www.britishcouncil.org/new/press-office/press-releases/british-council-announces-shortlist-for-eltons-2012/
 
 
 Who are we looking for?
 =======================
 
-We are looking for skilled Ruby developers. We also require this position to
-have a strong problem solving problem and communication skill since you will
-have oppotunities to work with non-tech people.
+First and foremost, we are looking for skilled Ruby developers. But we also require independent thinkers with strong problem-solving skills and the ability to explain your ideas to people from a non-technical background.
 
 
 About us
