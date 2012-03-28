@@ -61,6 +61,9 @@ What we use
 * Resque
 * Objective C for iOS app development
 * Chef
+* Unicorn
+* Nginx
+* Varnish
 * FreeBSD
 
 etc...
