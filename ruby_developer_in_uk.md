@@ -46,6 +46,24 @@ Check out one of our recent products:
 http://www.screencast.com/t/RKgZTYg4GO 
 
 
+What we use recently
+====================
+
+* Ruby on Rails 3
+* Ruby 1.9.3
+* Coffee script
+* jQuery
+* Sass with Compass
+* Mongodb
+* PostgreSQL
+* Rspec
+* Mini test
+* Resque
+* Objective C for iOS app development
+* Chef
+* FreeBSD
+etc...
+
 How to apply
 ============
 
