@@ -46,8 +46,8 @@ Check out one of our recent products:
 http://www.screencast.com/t/RKgZTYg4GO 
 
 
-What we use recently
-====================
+What we use
+===========
 
 * Ruby on Rails 3
 * Ruby 1.9.3
