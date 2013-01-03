@@ -1,5 +1,4 @@
-We're looking for a Senior Ruby (on Rails) developer to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
-
+We're looking for talented Ruby developers to help us deliver cutting-edge e-learning products that make learning languages both fun and effective.
 
 Why work with us?
 ================================
@@ -22,7 +21,7 @@ We have positions in both London and Tokyo to satisfy the keenest ninja.
 
 **Love to be loved?**
 
-We have a large number of learners from all around the world and our most recent product has been shortlisted for the British Council's  ELTons award 2012. 
+We have a large number of learners from all around the world and our most recent product was shortlisted for the British Council's ELTons award 2012. 
 
 http://www.britishcouncil.org/new/press-office/press-releases/british-council-announces-shortlist-for-eltons-2012/
 
@@ -32,15 +31,14 @@ Who are we looking for?
 
 First and foremost, we are looking for skilled Ruby developers. But we also require independent thinkers with strong problem-solving skills and the ability to explain your ideas to people from a non-technical background.
 
-
 About us
 ========
 
-Since launching our first English language learning website in April 2002, reallyenglish has expanded year on year to become the partner of choice for corporations, educational establishments and individual students in Asia.  
+Since launching our first English language learning website in April 2002, Reallyenglish has expanded year on year to become the partner of choice for corporations, educational establishments and individual students in Asia.  
 
 We offer cutting-edge delivery systems, inspiring teaching methods, and effective monitoring services and have a proven track record in teaching specifically for local markets, from Japan and China to Korea and worldwide. 
 
-With offices in Tokyo, Shanghai, and Beijing, London remains our main R&D centre. The current team of five developers work in a sunny office in Shoreditch and oversee the development of both our language learning and customer service products.
+With offices in Tokyo, Shanghai, and Beijing, London remains our main R&D centre. The current team works in a sunny office in Shoreditch and oversee the development of both our language learning and customer service products.
  
 Check out one of our recent products:
 http://www.screencast.com/t/RKgZTYg4GO 
@@ -49,18 +47,18 @@ http://www.screencast.com/t/RKgZTYg4GO
 What we use
 ===========
 
-* Ruby on Rails 3, Ruby 1.9.3
-* Coffee script, jQuery, Sass with Compass
+* Ruby 1.9
+* Rails 3
+* Coffeescript, jQuery, Sass with Compass
 * Mongodb, PostgreSQL
 * Rspec, Mini test
 * Resque
-* Objective C for iOS app development
 * Chef
 * Unicorn
 * Nginx, Varnish
 * FreeBSD
-
-etc...
+* Amazon EC2/S3
+* Heroku
 
 How to apply
 ============
